@@ -7,3 +7,6 @@ Using Node, GraphQL, Apollo, and React I was able to build a simple site that wo
 metrics for all Servers and Bartenders, as well as view the metrics by section.
 
 
+Please note that this is a draft, to be used as a dispaly of my current skills
+
+
